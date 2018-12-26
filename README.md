@@ -1,5 +1,7 @@
 # Elmmeetup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasm/elmmeetup.svg)](https://greenkeeper.io/)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
